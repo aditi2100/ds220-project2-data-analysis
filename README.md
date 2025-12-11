@@ -7,9 +7,10 @@
 
 ## 📊Overview
 
-This project presents a comprehensive data analysis of the Netflix Movies and TV Shows dataset sourced from Kaggle. The objective is to explore global content trends on Netflix, understand the evolution of its catalog, and identify meaningful patterns related to genres, countries, release years, content types, and availability over time.
+This project analyzes the **Netflix Movies and TV Shows** dataset from Kaggle.  
+The goal is to explore global content trends, understand Netflix’s catalog growth, and identify patterns in genres, release years, countries, and availability over time.
 
-The project follows a complete data workflow—from acquisition and cleaning to exploratory analysis, visualization, and insight generation—implemented in Python, Pandas, and Jupyter Notebook within GitHub Codespaces. The final deliverable is published through GitHub Pages, as required by the project specifications.
+The analysis was performed in **Python (Pandas)** using **Jupyter Notebook on GitHub Codespaces** and published using **GitHub Pages**.
 
 ---
 
@@ -48,14 +49,32 @@ This project aims to:
 
 ---
 
-## 📜Questions Addressed
+## **3. Problem Space**  
+### **What?**  
+Analyzing Netflix’s worldwide catalog of movies and TV shows.
 
-- How many titles on Netflix are Movies vs TV Shows?
-- How many titles were added to Netflix each year?
-- Which countries produce the most Netflix content?
-- What are the most popular genres on Netflix?
-- How has the number of releases changed over time?
-- Are Netflix titles primarily single-genre or multi-genre?
+### **Why?**  
+To identify global content trends and support data-driven insights.
+
+### **Who Benefits?**  
+- Viewers  
+- Media analysts  
+- Entertainment industry  
+- Students & researchers  
+- Content creators  
+
+### **Where & When?**  
+Worldwide Netflix dataset up to 2021.
+
+---
+
+## **4. Questions to Address**
+1. How many titles on Netflix are Movies vs TV Shows?  
+2. How many titles were added each year?  
+3. Which countries produce the most content?  
+4. What are the most popular genres?  
+5. How have release trends changed over time?  
+6. Are Netflix titles single-genre or multi-genre?
 
 ---
 
@@ -111,12 +130,12 @@ https://aditi2100.github.io/ds220-project2-data-analysis/docs/
 
 ## ✅Key Insights
 
-- Netflix contains more Movies than TV Shows, though TV content has grown in recent years.  
+- Netflix has more Movies than TV Shows, but TV content is rising. 
 - Titles added to Netflix increased significantly between 2015–2020.  
 - The United States and India are the largest contributors of Netflix content.  
-- Dramas, International Movies, and Comedies are among the most common genres.  
+- Dramas, International Movies, and Comedies are among the most common genres.
+- Most titles belong to multiple genres, showing Netflix's multi-category classification style.   
 - Release trends show a substantial increase in titles after 2010.  
-- Most titles belong to multiple genres, showing Netflix's multi-category classification style.  
 
 ---
 
@@ -154,9 +173,9 @@ Semester: Fall 2025
 
 ## ✅Conclusion
 
-This project demonstrates the complete workflow of data analysis—from importing external data, preprocessing and transforming it, conducting exploratory analysis, answering well-defined questions, and publishing the final results online.
+This project demonstrates a complete data analysis workflow including importing external data, cleaning, transforming, EDA, visualization, insight generation, and publishing online using GitHub Pages.
 
-The Netflix dataset provides valuable insights into global content distribution, international production patterns, genre preferences, and shifting media trends over time.
+The Netflix dataset provides valuable insights into global content distribution, production patterns, genre preferences, and evolving media trends.
 
 
 
