@@ -49,7 +49,7 @@ This project aims to:
 
 ---
 
-## ** Problem Space**  
+## **Problem Space**  
 ### **What?**  
 This project analyzes Netflix’s global catalog of movies and TV shows using a structured data-driven approach. It examines patterns in content production, genre distribution, growth over time, and country-level contributions.
 
@@ -68,7 +68,7 @@ The analysis uses Netflix’s internationally available dataset, containing titl
 
 ---
 
-## ** 📜Questions to Address**
+## **📜Questions to Address**
 1. How many titles on Netflix are Movies vs TV Shows?  
 2. How many titles were added each year?  
 3. Which countries produce the most content?  
