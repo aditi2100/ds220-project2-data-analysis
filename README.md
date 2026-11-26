@@ -49,26 +49,26 @@ This project aims to:
 
 ---
 
-## **3. Problem Space**  
+## **Problem Space**
 ### **What?**  
-Analyzing Netflix’s worldwide catalog of movies and TV shows.
+This project analyzes Netflix’s global catalog of movies and TV shows using a structured data-driven approach. It examines patterns in content production, genre distribution, growth over time, and country-level contributions.
 
 ### **Why?**  
-To identify global content trends and support data-driven insights.
+As streaming platforms continue to dominate the entertainment industry, understanding how Netflix curates and expands its catalog is essential. This analysis helps uncover trends in content availability, regional diversity, and viewing options. Such insights can guide strategic decisions, academic research, and discussions around global media consumption.
 
 ### **Who Benefits?**  
-- Viewers  
-- Media analysts  
-- Entertainment industry  
-- Students & researchers  
-- Content creators  
+- Viewers seeking to understand available content and trends
+- Media analysts examining streaming market behavior
+- Entertainment industry professionals identifying production and distribution patterns
+- Students & researchers analyzing real-world data for learning
+- Content creators looking for opportunities based on genre and regional demand
 
 ### **Where & When?**  
-Worldwide Netflix dataset up to 2021.
+The analysis uses Netflix’s internationally available dataset, containing titles released globally up to 2021. It reflects worldwide content trends rather than region-specific variations.
 
 ---
 
-## **4. Questions to Address**
+## **📜Questions to Address**
 1. How many titles on Netflix are Movies vs TV Shows?  
 2. How many titles were added each year?  
 3. Which countries produce the most content?  
@@ -176,7 +176,6 @@ Semester: Fall 2025
 This project demonstrates a complete data analysis workflow including importing external data, cleaning, transforming, EDA, visualization, insight generation, and publishing online using GitHub Pages.
 
 The Netflix dataset provides valuable insights into global content distribution, production patterns, genre preferences, and evolving media trends.
-
 
 
 
